@@ -193,7 +193,7 @@ This project is distributed under the MIT License. See [LICENSE](LICENSE) file f
 ## 📞 Contact
 
 - **Email**: [sunjun7559012@yonsei.ac.kr]
-- **GitHub**: ![sunjun](https://github.com/justinbrianhwang)
+- **GitHub**: [sunjun](https://github.com/justinbrianhwang)
 
 
 ## 🙏 Acknowledgments
