@@ -170,7 +170,7 @@ jupyter notebook notebooks/result_visualization.ipynb
 ### Research Team
 - **Team Leader**: Yonsei University, Division of Software, Sunjun Hwang
 - **Supervisor**: 
-- **Collaborators**: Sehee Park, Gangmin Ko, Jiyoon Beak
+- **Collaborators**: Sehee Park, Gangmin Ko, Jiyun Baik
 
 ### Role Distribution
 - **Data Processing**: Seismic data preprocessing and noise synthesis
